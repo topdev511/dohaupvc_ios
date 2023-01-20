@@ -1,0 +1,89 @@
+/* 
+  Localizable.strings
+  Doha UPVC
+
+  Created by Star on 10/24/17.
+  Copyright © 2017 Star. All rights reserved.
+*/
+
+"Windows" = "Windows";
+"Tents" = "UPVC Tents";
+"PVC Kitchen" = "PVC Kitchen";
+"Plastic Wood" = "Plastic Wood";
+"UPVC Doors" = "UPVC Doors";
+"Wooden Doors" = "PVC Wooden Doors";
+"Frameless" = "Frameless";
+"Handrail" = "Handrail";
+"Mirrors" = "Mirrors";
+"Showers" = "Showers";
+
+"Made in Turkey" = "Made in Turkey";
+"Made in Germany" = "Made in Germany";
+"Made in Greece" = "Made in Greece";
+"Made in Qatar" = "Made in Qatar";
+"Made in China" = "Made in China";
+
+"Take me there" = "Take me there";
+
+"Our Branches" = "Our Branches";
+
+"Please enter your specification" = "Please enter your specification";
+"Width(mm)" = "Width(mm)";
+"Height(mm)" = "Height(mm)";
+"Rectangle" = "Rectangle";
+"Arch" = "Arch";
+
+"Gold Oak" = "Gold Oak";
+"Gray" = "Gray";
+"Ivory" = "Ivory";
+"Mahogany" = "Mahogany";"White" = "White";
+"Black" = "Black";
+"Chocolate" = "Chocolate";
+"Coffee" = "Coffee";
+"Teak" = "Teak";
+"Walnut" = "Walnut";
+"White-Gray" = "White-Gray";
+"Mocha" = "Mocha";
+"Dark Walnut" = "Dark Walnut";
+"Maple" = "Maple";
+"White Teak" = "White Teak";
+"Color" = "Color";
+"Image" = "Image";
+
+"plastic_wood_sub_title" = "Plastic Wood";
+
+"who_we_are" = "Doha UPVC Windows & Doors is a member of A. Aziz Bin Khalid Al-Ghanem group.\nEstablished in 2007, as the most modern company in Qatar in manufacturing UPVC windows and doors, due to the speed and the high quality of the production machines. \nDoha UPVC Windows & doors takes pride in all its products and services. We deliver top quality products on time and within budget to insure all our client’s requirements and expectations are fulfilled. \nWe at Doha UPVC strive to be your one stop shop and promise to provide an amazing customer experience.";
+
+"our_mission" = "The objective of Doha UPVC Windows & Doors company is to provide the market with highest qualities of UPVC Windows and Doors at reasonable and competitive prices. \nAs an independent company with strong, proficient management and personal commitment from its staff, DOHA UPVC Windows & Doors can bring the highest standard of quality to each project. \nNo matter how big or small your project is, it will get our full attention from the start until delivery. All our staff are hand-picked and full trained to ensure that our image is sustained and our reputation is kept at the high caliber it has always been at.";
+
+"why_upvc" = "Unplasticized polyvinyl chloride also known as UPVC is one of the most valuable product of chemical industry characterizes as rigid, chemically resistant form of PVC used for window frames, and other structures. \nUPVC world market grew at an average rate of approximately 5% over the last few years and expected to reach a volume of 50 million tons by the year 2021. \nUPVC is cheap, durable and easy to assemble. \nUPVC's wide array of advantages and benefits make it the optimum solution and the smartest alternative to any other material. \nDurability, Reliability and efficiency are what make UPVC superior to any other material.";
+
+"upvc_features" = "Air permeability, tightness against wind driven rain and excellent heat and sound resistance and doesn’t effect by external conditions. \nLife span longer than Aluminum and wood as it does not rust, erode and does not absorb moisture. Increased security because of the use of special fittings which rend the break-in of the sash more difficult. Attractive colors from white and Ivory to Wood-like color Highly inflammable and Environment friendly for its recyclable. \nMost cost effective over the long run compared to all other materials that could be used instead.";
+
+"frame6" = "A beautiful appearance and soft texture windows frames manufactured using UPVC technology. It is also a sealant to completely isolate water, air and dirt. Created using galvanized stainless steel with a thickness of 1.5 mm to strengthen the section and install the accessory with several cavities to help isolate heat and sound at high rates. Possibility to choose between a 6-mm single glass or double 24 mm Belgian reflector glass.";
+
+"frame7" = "In addition to the specifications of 6 cm frame features, 7 cm frame has increased numbers of cavities to help more insulation of heat and sound and to give a more aesthetic view. Customers can choose between double glass 24 mm or a 6-mm reflector Belgian single glass.";
+
+"upvc_doors" = "Greek manufactured doors with 2 mm UPVC layer from each direction and inside it foams material to help isolate sound and heat. We offer three colors (White-Mahogany-Gold Oak), doors for main entrances, lounges, doors for rooms and bathrooms.";
+
+"wooden_doors" = "They are interior Turkish doors with distinctive designs for rooms and bathrooms made of pine wood and coated with a 2 mm PVC from each side, which makes them not affected by water and humidity and doesn’t offer a habitat for insects because no part of the wood will be exposed.it comes with attractive colors that satisfy all tastes and available in several sizes.";
+
+"glass_frameless" = "We offer a variety of quality frameless glass products from doors to office partitions with a different thickness and sand designs.";
+
+"glass_handrail" = "We offer a glass handrail with a wide variety of designs.";
+
+"glass_mirrors" = "We offer a high-quality mirrors with different designs that satisfy your need.";
+
+"glass_showers" = "Our range of frameless showers is a unique solution for your bathroom. It comes with a different thickness and sand designs.";
+
+"pvc_kichen" = "PVC kitchens with attractive colors and high quality. it is resistant to water, humidity and an environment that is not suitable for insects. We offer a wide selection of granite (Italian-Indian-Chinese) to choose the most suitable for you. We have best technicians to help you choose the most appropriate design for your available landscape. Stainless steel of high quality and modern designs to satisfy your taste and offers ease of cleaning.";
+
+"tents_txt" = "Alternative to traditional tents, we offer custom tents with windows and doors made of UPVC and plastic floors with the main poles of 3 mm iron thickness. \nIn addition, we install a red brick on the ceiling with a layer of insulation and the finishing from the inside using dyed gypsum board and exits for electricity. \nAlternative to traditional tents. \nUPVC windows and doors and plastic wood floors. \nMain steel structure with 3 mm thickness. \nTent side height two and half meters and highest point of center four meters. \nInstallation of bricks red colour with insulation. \nInside finishing with gypsum board with painting. \nProvide the tent with electrical outlets.
+";
+
+"plastic_wood" = "We offer Plastic Wood flooring for swimming pools and the back yards, it has a decorative view suitable for all designs and not affected by moisture and water and do not need maintenance, it is resistant to shocks and prevent slipping. available in several colors and can be installed in multiple forms.";
+
+"salwa_road" = "Salwa Road";
+"al_wakra" = "Al-Wakra";
+"um_slal" = "Um Slal";
+"al_khor" = "Al-Khor";
